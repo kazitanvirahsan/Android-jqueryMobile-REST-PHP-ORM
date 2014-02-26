@@ -14,7 +14,8 @@ Screenshot for Android JQuery Mobile Api:
     ![ScreenShot](https://raw.github.com/kazitanvirahsan/Android-jqueryMobile-REST-PHP-ORM/master/androidrest/assets/screenshots/AndroidRestApi.png)
 
 Prepared and Developed By Kazi T Ahsan
-Ref:
+
+References:
 
 1. JQuery Mobile: http://jquerymobile.com/
 2. RedBean ORM: http://redbeanphp.com/
