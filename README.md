@@ -14,7 +14,7 @@ Screenshot for PHPUnitTesting:
 
 Screenshot for Android JQuery Mobile:
 
-    ![ScreenShot](https://github.com/kazitanvirahsan/Android-jqueryMobile-REST-PHP-ORM/blob/master/androidrest/assets/screenshots/AndroidRestApi.jpeg)
+    ![ScreenShot](https://github.com/kazitanvirahsan/Android-jqueryMobile-REST-PHP-ORM/blob/master/androidrest/assets/screenshots/AndroidRestApi.png)
 
 Prepared and Developed By Kazi T Ahsan
 
