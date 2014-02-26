@@ -9,7 +9,7 @@ An integration of
 7. and PHPUnitTesting
 
 Screenshot for PHPUnitTesting:
-    ![ScreenShot](https://raw.github.com/kazitanvirahsan/Android-jqueryMobile-REST-PHP-ORM/blob/master/androidrest/assets/screenshots/phpunittest.png)
+    ![ScreenShot](https://github.com/kazitanvirahsan/Android-jqueryMobile-REST-PHP-ORM/blob/master/androidrest/assets/screenshots/phpunittest.png)
 
 
 Screenshot for Android JQuery Mobile:
@@ -19,8 +19,11 @@ Screenshot for Android JQuery Mobile:
 Prepared and Developed By Kazi T Ahsan
 
 Ref:
+
 1. JQuery Mobile: http://jquerymobile.com/
+
 2. RedBean ORM: http://redbeanphp.com/
+
 3. REST design idea : http://www.ibm.com/developerworks/xml/library/x-slim-rest/index.html?ca=drs
 
  
