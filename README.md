@@ -9,12 +9,12 @@ An integration of
 7. and PHPUnitTesting
 
 Screenshot for PHPUnitTesting:
-    https://raw.github.com/kazitanvirahsan/Android-jqueryMobile-REST-PHP-ORM/master/Android-Rest-API-PHP/androidrest/assets/phpunittest.png
+    ![ScreenShot](https://raw.github.com/kazitanvirahsan/Android-jqueryMobile-REST-PHP-ORM/blob/master/androidrest/assets/screenshots/phpunittest.png)
+
 
 Screenshot for Android JQuery Mobile:
 
-    https://raw.github.com/kazitanvirahsan/Android-jqueryMobile-REST-PHP-ORM/master/Android-Rest-API-PHP/androidrest/assets/AndroidRestApi.jpeg
-
+    ![ScreenShot](https://raw.github.com/kazitanvirahsan/Android-jqueryMobile-REST-PHP-ORM/blob/master/androidrest/assets/screenshots/AndroidRestApi.jpeg)
 
 Prepared and Developed By Kazi T Ahsan
 
