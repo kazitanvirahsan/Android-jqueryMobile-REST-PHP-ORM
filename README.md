@@ -10,9 +10,7 @@ An integration of
 
 Screenshot for PHPUnitTesting:
     ![ScreenShot](https://github.com/kazitanvirahsan/Android-jqueryMobile-REST-PHP-ORM/blob/master/androidrest/assets/screenshots/phpunittest.png)
-
-
-Screenshot for Android JQuery Mobile:
+Screenshot for Android JQuery Mobile Api:
     ![ScreenShot](https://raw.github.com/kazitanvirahsan/Android-jqueryMobile-REST-PHP-ORM/master/androidrest/assets/screenshots/AndroidRestApi.png)
 
 Prepared and Developed By Kazi T Ahsan
