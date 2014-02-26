@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "classmap": [ "classes" ]
+    },
+    
+    "require": {
+        "slim/slim": "2.*",
+        "gabordemooij/redbean": "3.*",
+        "phpunit/phpunit": "3.7.*"
+        
+    }
+}
