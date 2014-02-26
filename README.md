@@ -15,7 +15,8 @@ Screenshot for Android JQuery Mobile Api:
 
 Prepared and Developed By Kazi T Ahsan
 Ref:
-⋅⋅* JQuery Mobile: http://jquerymobile.com/
-⋅⋅* RedBean ORM: http://redbeanphp.com/
-⋅⋅* REST design idea : http://www.ibm.com/developerworks/xml/library/x-slim-rest/index.html?ca=drs
+
+1. JQuery Mobile: http://jquerymobile.com/
+2. RedBean ORM: http://redbeanphp.com/
+3. ⋅REST design idea : http://www.ibm.com/developerworks/xml/library/x-slim-rest/index.html?ca=drs
  
